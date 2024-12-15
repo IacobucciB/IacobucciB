@@ -33,14 +33,14 @@ I am Iacobucci Juan Bautista, an engineering student with a deep passion for pro
 ## Projects
 
 ### Embedded C - Arduino
-I have developed several projects using Embedded C and Arduino, including:
-- LED control 💡
-- Temperature and humidity sensor registration 🌡️
-- Keyboard development ⌨️
-- RGB lights control 🎨
+I built a replica of the Enigma machine using the EDU-CIAA board, programmed in C, and designed a custom PCB for it. 🛠️🔒
+[Link to Repository](https://github.com/IacobucciB/EnigmaMachine-Embedded) 🛠️🔒
+
+Other projects include:
+- A PS/2 keyboard prototype ⌨️, LED and RGB light control 💡🎨, Temperature and humidity sensors 🌡️
 
 ### Veterinary Clinic
-A complete Veterinary Appointment System developed with Ruby on Rails, aimed at simplifying veterinary operations. [Link to Repository](https://github.com/IacobucciB/veterinary-ohmydog-rails) 🏥
+A Veterinary Appointment System developed with Ruby on Rails. [Link to Repository](https://github.com/IacobucciB/veterinary-ohmydog-rails) 🏥
 
 ### Conway's Game of Life
 Implemented Conway's Game of Life using the Godot engine, demonstrating how simple rules can create complex behavior. 🧩
