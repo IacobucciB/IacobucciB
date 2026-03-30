@@ -34,8 +34,6 @@ Controls the color of an RGB LED using PWM, with input from an analog sensor rea
 A Veterinary Appointment System developed with Ruby on Rails.  
 [Link to Repository](https://github.com/IacobucciB/veterinary-ohmydog-rails)
 
-### Conway's Game of Life
-Implemented Conway's Game of Life using the Godot engine, demonstrating how simple rules can create complex behavior.
 
 ## Languages
 
